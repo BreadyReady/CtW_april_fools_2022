@@ -1,0 +1,34 @@
+state={
+	id=385
+	name="STATE_385"
+	local_supplies=0.0 
+	
+	history {
+		owner = HGH
+		add_core_of = HGH
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 2
+			
+			
+			infrastructure = 1
+			air_base = 0
+			anti_air_building = 0
+			radar_station = 0
+		}
+			
+		victory_points = { 1250 20 } 
+	}
+	
+	provinces={
+		1250 1446 4963 6484 7669 7703 
+	}
+	
+	resources={
+		steel = 12
+	}
+	
+	manpower=1004000
+	
+	state_category=town
+}

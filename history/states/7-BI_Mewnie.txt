@@ -1,0 +1,17 @@
+state={
+	id=7
+	name="STATE_7"
+	history {
+		owner = WAL
+		add_core_of = WAL
+		
+		victory_points = { 3437 10 }
+	}
+	provinces={
+		3437 5384 
+	}
+	manpower=1000
+	
+	state_category=enclave
+	local_supplies=0.0 
+}

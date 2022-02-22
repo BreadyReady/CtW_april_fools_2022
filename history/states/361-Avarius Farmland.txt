@@ -1,0 +1,33 @@
+state={
+	id=361
+	name="STATE_361"
+	local_supplies=0.0 
+	
+	history {
+		owner = AVA
+		add_core_of = AVA	
+		buildings = {
+			industrial_complex = 2
+			
+			
+			infrastructure = 1
+			air_base = 0
+			anti_air_building = 0
+			radar_station = 0
+		}
+	
+		victory_points = { 794 15 }
+	}
+	
+	provinces={
+		392 785 794 5461 7630 
+	}
+	
+	resources={
+		aluminium = 11
+	}
+	
+	manpower=1005000
+	
+	state_category=town
+}

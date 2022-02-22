@@ -1,0 +1,320 @@
+﻿division_template = {
+	name = "Keyboard Warriors"
+	division_names_group = SPAN_INFB_02
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+	}
+}
+division_template = {
+	name = "Rule 34 Artists"  
+	division_names_group = SPAN_CAVB_01
+
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+		cavalry = { x = 2 y = 0 }
+		cavalry = { x = 2 y = 1 }
+	}
+}
+
+units = {
+
+	###################
+	#Keyboard Warriors#
+	###################
+	
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Keyboard Warriors"
+		# = 0.001
+
+
+	}
+
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Keyboard Warriors"
+		# = 0.001
+
+
+	}
+	
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Keyboard Warriors"
+		# = 0.001
+
+
+	}
+	
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Keyboard Warriors"
+		# = 0.001
+
+
+	}
+	
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Keyboard Warriors"
+		# = 0.001
+
+
+	}
+	
+		division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Keyboard Warriors"
+		# = 0.001
+
+
+	}
+
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Keyboard Warriors"
+		# = 0.001
+
+
+	}
+	
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Keyboard Warriors"
+		# = 0.001
+
+
+	}
+	
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Keyboard Warriors"
+		# = 0.001
+
+
+	}
+	
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Keyboard Warriors"
+		# = 0.001
+
+
+	}
+	
+		division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Keyboard Warriors"
+		# = 0.001
+
+
+	}
+
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Rule 34 Artists"
+		# = 0.001
+
+
+	}
+	
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Rule 34 Artists"
+		# = 0.001
+
+
+	}
+	
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Rule 34 Artists"
+		# = 0.001
+
+
+	}
+	
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Rule 34 Artists"
+		# = 0.001
+
+
+	}
+	
+		division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Rule 34 Artists"
+		# = 0.001
+
+
+	}
+
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Rule 34 Artists"
+		# = 0.001
+
+
+	}
+	
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Rule 34 Artists"
+		# = 0.001
+
+
+	}
+	
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Rule 34 Artists"
+		# = 0.001
+
+
+	}
+	
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Rule 34 Artists"
+		# = 0.001
+
+
+	}
+	
+		division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Rule 34 Artists"
+		# = 0.001
+
+
+	}
+
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Rule 34 Artists"
+		# = 0.001
+
+
+	}
+	
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Rule 34 Artists"
+		# = 0.001
+
+
+	}
+	
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 3624
+		division_template = "Rule 34 Artists"
+		# = 0.001
+
+
+	}

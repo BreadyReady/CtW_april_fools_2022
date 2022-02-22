@@ -1,0 +1,7 @@
+STC = "countries/starco.txt"
+JAR = "countries/jarco.txt"
+NEU = "countries/neutral.txt"
+JAN = "countries/janco.txt"
+KEL = "countries/kellco.txt"
+MKP = "countries/markapoo.txt"
+BUR = "countries/burgundy.txt"

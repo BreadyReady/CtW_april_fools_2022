@@ -1,0 +1,29 @@
+state={
+	id=447
+	name="STATE_447"
+	local_supplies=0.0 
+	
+	history {
+		owner = DTH
+		add_core_of = DTH
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 1
+			
+			infrastructure = 1
+			air_base = 0
+			anti_air_building = 0
+			radar_station = 0
+		}
+		victory_points = { 4046 20 } 
+
+	}
+	
+	provinces={
+		4046 5387 5867 7805 
+	}
+	
+	manpower=1004000
+	
+	state_category=town
+}

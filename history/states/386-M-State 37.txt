@@ -1,0 +1,33 @@
+state={
+	id=386
+	name="STATE_386"
+	local_supplies=0.0 
+	
+	history {
+		owner = HGH
+		add_core_of = HGH
+		buildings = {
+			arms_factory = 2
+			
+			
+			infrastructure = 1
+			air_base = 0
+			anti_air_building = 0
+			radar_station = 0
+		}
+		victory_points = { 7704 5 }
+			
+	}
+	
+	provinces={
+		4175 4735 4767 7648 7687 7704 
+	}
+	
+	resources={
+		oil = 4
+	}
+	
+	manpower=1004000
+	
+	state_category=town
+}
